@@ -1,7 +1,7 @@
 manifestVersion: 1
 id: soe-paperless
 category: files
-name: Paperless-ngx
+name: Paperless-ngx (SOE)
 version: "2.17.1"
 tagline: Transform your physical documents into a searchable online archive
 description: >-
